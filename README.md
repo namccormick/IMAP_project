@@ -9,6 +9,7 @@ solar energetic particle (SEP) events occur.
 - Server: NASA CCMC ISWA HAPI (https://iswa.ccmc.gsfc.nasa.gov/hapi)
 - Dataset ID: `goesp_part_flux_P5M` (GOES primary, 5-minute particle flux)
 - Time range: 1 February 2026 to the present (set by `START` / `END` in the script)
+- Data downloaded on 23 October 2026
 
 ## Setup
 
